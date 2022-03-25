@@ -1,0 +1,8 @@
+{
+    "id": 1,
+    "title": "Livro",
+    "description": "Primeiro livro",
+    "pageCount": 0,
+    "excerpt": "string",
+    "publishDate": "2022-03-24T22:20:37.576Z"
+  }
