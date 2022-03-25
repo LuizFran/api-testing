@@ -1,7 +1,7 @@
 # Testando uma FakerestAPI com crypress
 - Utilizado uma API Fake livre, seguindo a documentação do Swagger. Como primeira etapa um endPoint Book para validar a operação .
 
-#SCNESTest
+# SCNES Test
 
 - [x] Estruturado as requisições na pasta "requests" um crud por vez.
 - [x] Na pasta "tests" todas as staks.
